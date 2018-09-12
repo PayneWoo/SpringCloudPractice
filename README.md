@@ -29,5 +29,6 @@ eureka.client.service-url.defaultZone=http://localhost:8761/eureka/,http://local
 # 为服务命名
 spring.application.name=client
 ```
-## 2.
+## 2.Spring Cloud Ribbon ---- 客户端负载均衡
+
 
