@@ -1,4 +1,5 @@
 # SpringCloudPractice
+Spring Cloud 是一个基于 Spring Boot 实现的云应用开发工具，它为基于 JVM 的云应用开发中涉及的配置管理、服务发现、断路器、智能路由、微代理、控制总线、全局锁、决策竞选、分布式会话和集群状态管理等操作提供了一种简单的开发方式。
 ## 1.Spring Cloud Eureka ---- 服务治理
 Spring Cloud Eureka，使用 Netflix Eureka 来实现**服务注册**与**服务发现**，既包含服务端组件，也包含客户端组件。
 **Eureka 服务端**：服务注册中心
